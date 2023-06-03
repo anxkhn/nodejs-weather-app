@@ -43,7 +43,7 @@ cd weather-app
 npm install
 ```
 
-4. Replace 'YOUR_API_KEY' in index.js with your OpenWeatherMap API key.
+4. Replace 'YOUR_API_KEY' in index.js with your OpenWeatherMap API key. (have already embedded for this project, feel free to change if rate limit is exceeded.)
 
 
 ## Usage
@@ -80,4 +80,5 @@ Response Body:
     "city2": "temperature",
     "city3": "temperature"
   }
-}```
+}
+```
